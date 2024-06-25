@@ -1,6 +1,6 @@
 ## Oi 👋
 
-_Seja vem vindo ao meu perfil 💙_
+_Seja bem vindo ao meu perfil 💙_
 
 **💬 Um pouco sobre mim ...**
 
@@ -8,4 +8,4 @@ _Seja vem vindo ao meu perfil 💙_
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-![](https://images.app.goo.gl/C162ZTvL7sKqA6uZ8)
+![image](https://github.com/Cale311/Cale311/assets/173812252/01728926-c25e-400d-bb9f-8edafb04f8c6)
