@@ -1,12 +1,11 @@
 ## Oi 👋
 
-_Boas vindas ao meu perfil 💙_
+_Seja vem vindo ao meu perfil 💙_
 
-**💬 Ask me about ...**
+**💬 Um pouco sobre mim ...**
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
--------------------------------------------
-![](https://pin.it/3cYnkGT3S)
+![](https://images.app.goo.gl/C162ZTvL7sKqA6uZ8)
